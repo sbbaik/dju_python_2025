@@ -33,6 +33,7 @@
 |박훈*	|https://github.com/znrks02/LDK2024 |
 |안주*	|https://github.com/anjubbro/LDK2024 |
 |양선*	|https://github.com/{본인계정}/{리포지토리 이름} |
+|윤승*	|https://github.com/yoonsm0320/python |
 |윤승*	|https://github.com/{본인계정}/{리포지토리 이름} |
 |장우*	|https://github.com/dnwlse/LDK2024 |
 |최도*	|https://github.com/{본인계정}/{리포지토리 이름} |

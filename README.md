@@ -27,7 +27,7 @@
 
 |이름|깃헙 주소|
 |------|---|
-|김근*	|https://github.com/{본인계정}/{리포지토리 이름} |
+|김근*	|https://github.com/Kimgeunoh/python |
 |김영*	|https://github.com/{본인계정}/{리포지토리 이름} |
 |김우*	|https://github.com/{본인계정}/{리포지토리 이름} |
 |박수*	|https://github.com/99geodetic/{리포지토리 이름} |

@@ -30,11 +30,11 @@
 |김근*	|https://github.com/Kimgeunoh/python |
 |김영*	|https://github.com/{본인계정}/{리포지토리 이름} |
 |김우*	|https://github.com/{본인계정}/{리포지토리 이름} |
-|박수*	|https://github.com/99geodetic/{리포지토리 이름} |
+|박수*	|https://github.com/99geodetic/python |
 |양선*	|https://github.com/{본인계정}/{리포지토리 이름} |
 |윤승*	|https://github.com/yoonsm0320/python |
 |이희*	|https://github.com/dju21hjlee/{리포지토리 이름} |
-|최도*	|https://github.com/{본인계정}/{리포지토리 이름} |
+|최도*	|https://github.com/choidohyun3280/python |
 |최  *	|https://github.com/{본인계정}/{리포지토리 이름} |
 
 ## FAQ

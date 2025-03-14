@@ -29,13 +29,13 @@
 |------|---|
 |김근*	|https://github.com/Kimgeunoh/python |
 |김영*	|https://github.com/dudtjr1/2025python_test |
-|김우*	|https://github.com/{본인계정}/{리포지토리 이름} |
+|김우*	|https://github.com/spacekim1129/2025_python-wjkim |
 |박수*	|https://github.com/99geodetic/python |
-|양선*	|https://github.com/{본인계정}/{리포지토리 이름} |
+|양선*	|https://github/sunwoo157/python |
 |윤승*	|https://github.com/yoonsm0320/python |
 |이희*	|https://github.com/dju21hjlee/{리포지토리 이름} |
-|최도*	|https://github.com/choidohyun3280/python |
-|최  *	|https://github.com/{본인계정}/{리포지토리 이름} |
+|최도*	|https://github.com/choidohyun3280/2025python_test |
+|최  *	|https://github.com/cjune100/cjune100 |
 
 ## FAQ
 
